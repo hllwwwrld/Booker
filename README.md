@@ -1,2 +1,2 @@
-# bot_tg_book
-telegram bot for reading books
+# Booker
+Telegram bot. Allows to use raw text as a book with pagination, bookmarks etc
